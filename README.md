@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/ZH-Tonmoy/ZH-Tonmoy/blob/main/cover.png?raw=true)]
+![MasterHead](https://github.com/ZH-Tonmoy/ZH-Tonmoy/blob/main/COVER.png?raw=true)
 <h1 align="center">Hi 👋, I'm MD. Zahid Hossain Tonmoy</h1>
 <h3 align="center">A Passionate Beginner Developer From Bangladesh</h3>
 
