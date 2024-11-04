@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MD. Zahid Hossain Tonmoy</h1>
 <h3 align="center">A Passionate Beginner Developer From Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/ZH-Tonmoy/ZH-Tonmoy/blob/main/Coding.gif">
+<img align="right" alt="coding" width="600" src="https://github.com/ZH-Tonmoy/ZH-Tonmoy/blob/main/Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zh-tonmoy&label=Profile%20views&color=0e75b6&style=flat" alt="zh-tonmoy" /> </p>
 
